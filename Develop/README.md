@@ -1,7 +1,7 @@
-# The project
+# the project
 
   ## Description
-  its a cool project
+  being a project
 
   ## Table of Contents
   - [Installation](#installation)
@@ -12,20 +12,20 @@
   - [Questions](#questions)
 
   ## Installation
-  just install
+  install the project
 
   ## Usage
-  for project usage
+  for projecting purposes
 
   ## License
   ![License badge](https://img.shields.io/badge/license-MIT-green.svg)
   This project is covered under the MIT license.
 
   ## Contributing
-  be nice
+  just use it
 
   ## Tests
-  run it
+  be nice to it
 
   ## Questions
   If you have any questions or concerns about this project, please contact me at kajianpulenthirasingam@gmail.com.
