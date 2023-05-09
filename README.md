@@ -18,7 +18,7 @@
   Enter node index.js to use the application. Complete each of the prompts.
   Your README file will be generated
   Here is a link to the video 
-  ![DEMO](https://www.veed.io/view/b20e8093-7b36-49d4-807b-74424cf8979b?panel=share)
+  https://www.veed.io/view/b20e8093-7b36-49d4-807b-74424cf8979b?panel=share
 
   ## License
   ![License badge](https://img.shields.io/badge/license-MIT-green.svg)
