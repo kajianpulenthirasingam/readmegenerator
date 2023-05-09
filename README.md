@@ -17,6 +17,8 @@
   ## Usage
   Enter node index.js to use the application. Complete each of the prompts.
   Your README file will be generated
+  ![Demo](Develop/Capture.PNG)
+  
   Here is a link to the video 
   https://www.veed.io/view/b20e8093-7b36-49d4-807b-74424cf8979b?panel=share
 
